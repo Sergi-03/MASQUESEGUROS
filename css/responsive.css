@@ -1,0 +1,233 @@
+@media (max-width: 992px) {
+  .hero_area {
+    min-height: auto;
+  }
+  .navbar-nav {
+    align-items: center;
+  }
+  .custom_nav-container .navbar-toggler {
+    margin-bottom: 15px;
+  }
+  .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item .nav-link {
+    padding: 10px 25px;
+    margin: 5px 0;
+  }
+  .custom_nav-container.navbar-expand-lg {
+    padding-top: 10px;
+    align-items: center;
+  }
+  .slider_section {
+    padding: 45px 0 150px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .slider_section {
+    text-align: center;
+    padding-top: 50px;
+  }
+  .slider_section .detail-box {
+    margin-top: 30px;
+  }
+  .slider_section .btn-box {
+    margin-top: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .slider_section h1 {
+    margin-top: 0;
+  }
+  .about_section .heading_container {
+    margin-bottom: 0;
+  }
+  .about_section .row {
+    flex-direction: column-reverse;
+  }
+  .about_section .detail-box {
+    margin-left: 0;
+    width: 100%;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+  }
+  .info_section .row .col-md-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .info_section .info_logo {
+    align-items: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .header_top a span {
+    display: none;
+  }
+  .slider_section .detail-box h1 {
+    font-size: 2.5rem;
+    line-height: 55px;
+  }
+  .slider_section {
+    padding-top: 60px;
+  }
+  .slider_section .btn-box {
+    margin-top: 25px;
+  }
+}
+
+@media (max-width: 375px) {
+  .slider_section {
+    padding-top: 80px;
+  }
+  .slider_section .detail-box {
+    margin-top: 40px;
+  }
+  .slider_section .btn-box {
+    margin-top: 30px;
+  }
+  .features-container{
+    margin-left: 3px;
+  }
+}
+
+@media (max-width: 320px) {
+  .slider_section {
+    padding-top: 100px;
+  }
+  .slider_section .detail-box {
+    margin-top: 50px;
+  }
+  .slider_section .btn-box {
+    margin-top: 40px;
+  }
+  .features-container{
+    margin-left: 3px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+}
+
+@media (max-width: 320px) {
+  .slider_section .detail-box h1 {
+    font-size: 1.4rem;
+    line-height: 55px;
+  }
+  .slider_section .detail-box p {
+    margin-top: 80px;
+  }
+}
+
+@media (max-width: 425px) {
+  .slider_section .detail-box p {
+    margin-top: 350px;
+  }
+  .slider_section .detail-box h1 {
+    font-size: 1.1rem;
+    line-height: 55px;
+  }
+  .btn-box{
+    margin-top: 90px !important;
+  }
+  .features-container{
+    margin-left: 3px;
+  }
+}
+
+@media (max-width: 375px) {
+  .slider_section .detail-box h1 {
+    font-size: 1.3rem;
+    line-height: 55px;
+  }
+  .slider_section .detail-box p {
+    margin-top: 320px;
+  }
+  .btn-box{
+    transform: translateY(7px);
+  }
+  h1{
+    margin-bottom: 110px;
+  }
+}
+
+@media (max-width: 768px) {
+  .slider_section .detail-box p {
+    margin-top: 350px;
+  }
+  .info_section .info_contact a{
+   display: grid;
+}
+}
+
+@media (max-width: 320px) {
+  .navbar-nav{
+    display: block;
+  }
+  h1{
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 768px) {
+  .seguro-item {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .seguro-de-vida {
+    margin-top: -4px;
+  }
+  .planes-ahorro{
+    margin-top: -5px;
+  }
+  .lista-ahorro{
+    margin-top: 50px;
+  }
+  .btn-todo-riesgo{
+    margin-top: 19px;
+  }
+  .lista-todo-riesgo{
+    margin-top: 50px;
+  }
+  .btn-baja-laboral{
+    margin-top: 22px;
+  }
+  .features-container{
+    margin-left: 3px;
+  }
+}
+
+@media (max-width: 768px) {
+  .features-container {
+      flex-direction: column; 
+      gap: 20px;
+  }
+  .feature {
+      max-width: 100%;
+  }
+  .feature i {
+      font-size: 1.5rem; 
+  }
+  .feature h2 {
+      font-size: 1.1rem; 
+  }
+  .feature p {
+      font-size: 0.85rem; 
+  }
+}
+
+@media (max-width: 480px) {
+  .feature i {
+      font-size: 1.2rem;
+  }
+  .feature h2 {
+      font-size: 1rem; 
+  }
+  .feature p {
+      font-size: 0.8rem; 
+  }
+}
