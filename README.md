@@ -15,7 +15,8 @@ MASQUESEGUROS es una plataforma digital desarrollada para un corredor de seguros
 *La página principal comunica claramente la filosofía de la empresa: el asesoramiento personalizado por encima de la venta.*
 
 ### Seguros de vehículos
-<img width="1280" alt="Captura de pantalla 2025-04-25 a las 17 50 23" src="https://github.com/user-attachments/assets/ae706cd4-6e77-4afb-a99e-cd052c82b73f" />
+![Captura de pantalla 2025-04-25 a las 17 50 23](https://github.com/user-attachments/assets/d4f2aaa3-ee14-45d7-86a5-f9d5ba48737b)
+
 
 
 *La sección de vehículos presenta de forma clara y visual las diferentes opciones de cobertura disponibles.*
