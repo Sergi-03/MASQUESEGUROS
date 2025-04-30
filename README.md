@@ -11,7 +11,8 @@ MASQUESEGUROS es una plataforma digital conceptual para un corredor de seguros i
 ## 🖼️ Capturas de pantalla
 
 ### Página principal
-![Captura de pantalla 2025-04-25 a las 18 05 25](https://github.com/user-attachments/assets/74528521-2669-44ff-abe5-2390a2430291)
+![brave_screenshot_masqueseguros netlify app](https://github.com/user-attachments/assets/1479be0a-9368-461f-ace9-6e21881e2836)
+
 
 
 *La página principal comunica claramente la filosofía conceptual: el asesoramiento personalizado por encima de la venta. Diseñada para generar confianza desde el primer momento.*
