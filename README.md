@@ -55,7 +55,6 @@ MASQUESEGUROS es una plataforma digital conceptual para un corredor de seguros i
 - **Herramientas de desarrollo**:
   - Git para control de versiones
   - GitHub para alojamiento de código
-  - Lighthouse para optimización de rendimiento y accesibilidad
 
 ## 📱 Enfoque UX/UI y proceso de diseño
 
